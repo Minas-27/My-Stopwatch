@@ -12,7 +12,7 @@ Functionality: Implements time tracking using Kotlin's Handler and Runnable for 
 Time Formatting: Displays time in a clear format with hours, minutes, seconds, and microseconds.
 
 # Installation:
-Clone the repository: git clone https://github.com/minas-27/your-repo.git
+Clone the repository: git clone https://github.com/Minas-27/My-Stopwatch.git
 Open in Android Studio.
 Build and run on an Android device or emulator.
 
