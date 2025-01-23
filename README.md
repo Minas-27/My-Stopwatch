@@ -40,9 +40,9 @@ A **simple and efficient stopwatch app** built with **Kotlin** for Android. This
 
 | Feature              | Screenshot Example  |  
 |----------------------|----------------------|  
-| **Home Screen**      | ![Home Screen](![photo_4_2025-01-23_13-20-46](https://github.com/user-attachments/assets/99ca69c9-93bc-4134-8e36-8f406be9f97b)|  
-| **Tracking Time**    | ![Tracking Time](![photo_4_2025-01-23_13-20-46](https://github.com/user-attachments/assets/49d8c06a-8c8c-4507-a08e-4b302d4c53b1)|  
-| **Reset Time**       | ![Reset Time](![photo_4_2025-01-23_13-20-46](https://github.com/user-attachments/assets/92436a04-c94d-4cbe-a461-1c5ed88d92c2)|  
+| **Home Screen**      | (![photo_4_2025-01-23_13-20-46](https://github.com/user-attachments/assets/99ca69c9-93bc-4134-8e36-8f406be9f97b)|  
+| **Tracking Time**    | (![photo_4_2025-01-23_13-20-46](https://github.com/user-attachments/assets/49d8c06a-8c8c-4507-a08e-4b302d4c53b1)|  
+| **Reset Time**       | (![photo_4_2025-01-23_13-20-46](https://github.com/user-attachments/assets/92436a04-c94d-4cbe-a461-1c5ed88d92c2)|  
 ---
 
 ## 🤝 Contribution:  
